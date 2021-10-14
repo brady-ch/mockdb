@@ -1,13 +1,7 @@
 {
-    "loginModeOptionsUsername":  {
-        "imagePath": "https://images.squarespace-cdn.com/content/v1/56ca8729f850827f40a70641/1552493268259-BZGS3QSKB5C0PSTM3WC9/xima-chronicall-analytics-reporting-business-call-recording-solution-provider?format=300w",
-        "autocompleteOptions": ["abbey301", "brandon673", "eric237", "dan267", "edd897"],
-        "mode": "LOGIN_WITH_USERNAME"
-    },
-    "loginModeOptionsEmail": {
+    "loginModeOptions":  {
         "imagePath": "https://images.squarespace-cdn.com/content/v1/56ca8729f850827f40a70641/1552493268259-BZGS3QSKB5C0PSTM3WC9/xima-chronicall-analytics-reporting-business-call-recording-solution-provider?format=300w",
         "autocompleteOptions": null,
         "mode": "LOGIN_WITH_EMAIL"
     }
-
 }
