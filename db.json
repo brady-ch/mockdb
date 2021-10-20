@@ -7,7 +7,7 @@
     "loginModeOptionsEmail":  {
         "logoUrl": "https://images.squarespace-cdn.com/content/v1/56ca8729f850827f40a70641/1552493268259-BZGS3QSKB5C0PSTM3WC9/xima-chronicall-analytics-reporting-business-call-recording-solution-provider?format=300w",
         "autocompleteOptions": null,
-        "loginMode": "LOGIN_WITH_EMAIL"
+        "loginMode": "Log in using username"
     },
     "login" : {
         "response": 400,
